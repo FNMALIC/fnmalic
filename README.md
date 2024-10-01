@@ -57,5 +57,3 @@
 
 ### 🔗 Connect with Me:
 - Email: **nixonfonkou@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnmalic&show_icons=true&locale=en" alt="fnmalic" /></p>
