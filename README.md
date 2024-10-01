@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wolonwo Fonkou Nixon</h1>
-<h3 align="center">A passionate Software Developer and Electronics Enthusiast from Cameroon</h3>
+<h3 align="center">A passionate Software Developer and  an AI and  Electronics  Enthusiast from Cameroon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fnmalic" alt="fnmalic" /></a> </p>
+
+### 📈 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmalic&show_icons=true&locale=en&layout=compact" alt="fnmalic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnmalic&show_icons=true&locale=en" alt="fnmalic" /></p>
+
+---
 
 <p align="left"> 
   <strong>🧑‍💻 About Me:</strong><br>
@@ -49,11 +55,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmalic&show_icons=true&locale=en&layout=compact" alt="fnmalic" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnmalic&show_icons=true&locale=en" alt="fnmalic" /></p>
-
----
 
 ### 🔗 Connect with Me:
 - Email: **nixonfonkou@gmail.com**
