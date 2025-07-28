@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a 23-year-old full-stack developer and AI enthusiast from Cameroon, passionate about leveraging technology to solve societal challenges. My work spans from web and mobile development to computer vision applications, with a focus on creating sustainable, impactful solutions for emerging markets.
+I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passionate about leveraging technology to solve societal challenges. My work spans from web and mobile development to computer vision applications, with a focus on creating sustainable, impactful solutions for emerging markets.
 
 **Current Focus:**
 - 🌱 Mastering **DevOps practices** and advanced containerization with Docker
