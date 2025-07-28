@@ -1,60 +1,135 @@
-<h1 align="center">Hi 👋, I'm Wolonwo Fonkou Nixon</h1>
-<h3 align="center">A passionate Software Developer and  an AI and  Electronics  Enthusiast from Cameroon</h3>
+# Hi 👋, I'm Wolonwo Fonkou Nixon
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fnmalic" alt="fnmalic" /></a> </p>
+<img align="right" alt="Profile Picture" width="150" src="https://github.com/fnmalic.png">
 
-### 📈 GitHub Stats:
+### Software Developer | AI/ML Engineer | Civic Tech Innovator | Co-Founder & CTO
+
+**Building technology solutions that drive real-world impact across Africa**
+
+🚀 **Co-Founder** at [Codees-CM](https://codees-cm.com) | 💼 **CTO** at [Ubuntu-X](https://ubuntu-x.com)
+
+---
+
+## 🚀 About Me
+
+I'm a 23-year-old full-stack developer and AI enthusiast from Cameroon, passionate about leveraging technology to solve societal challenges. My work spans from web and mobile development to computer vision applications, with a focus on creating sustainable, impactful solutions for emerging markets.
+
+**Current Focus:**
+- 🌱 Mastering **DevOps practices** and advanced containerization with Docker
+- 📝 Creating educational content around **computer science** and **Rust programming**
+- 🎯 Contributing to open-source projects and building developer tools
+- 💼 Managing technical contracts and coordinating development teams
+- 🎬 Launching content creator journey focused on African tech innovation
+- ✍️ Publishing tech insights and tutorials on my [personal blog](https://fnmalic.vercel.app)
+
+---
+
+## 🏆 Notable Achievements
+
+- **🚀 Co-Founder** - [Codees-CM](https://codees-cm.com) - Technology solutions company
+- **💼 Chief Technology Officer** - [Ubuntu-X](https://ubuntu-x.com) - Leading technical strategy and innovation
+- **🥇 1st Place** - GETEC 2024 National Competition (Agriculture Section, Cameroon)
+- **🥈 2nd Place** - Meathon SDK Games Regional Competition (2022)
+- **🚀 Project Lead** - CV Box civic-tech initiative for smart city infrastructure
+- **💼 Technical Contractor** - Leading website modernization projects (consulatsarl.com) via Codees
+- **🛠️ Tool Creator** - Built Swagger-to-React-Query generator for developer productivity
+- **📈 Business Strategist** - Designed 4-week digital marketing course using free-tier tools
+
+---
+
+## 🛠️ Technical Expertise
+
+**Full-Stack Development**
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Bootstrap
+- **Backend:** Django (DRF, Djoser), Flask, Express.js, Laravel
+- **Mobile Development**
+- **Flutter:** Advanced camera integration, image search capabilities, SharedPreferences for local storage
+- **Authentication Systems:** Previously integrated Google/Facebook login via Firebase (strategic removal for optimization)
+- **Image Processing:** Built product search functionality with camera/gallery upload features
+
+**AI/ML & Computer Vision**
+- Stereo vision systems for object detection
+- Image recognition APIs and processing pipelines
+- Drone-based data collection and analysis
+
+**DevOps & Tools**
+- Docker containerization and deployment
+- Git workflow management (GitFlow)
+- API development and documentation (Swagger/OpenAPI)
+- Linux/Ubuntu system administration
+
+**Databases & Infrastructure**
+- PostgreSQL, MySQL, MongoDB
+- Cloud deployment and scaling strategies
+
+---
+
+## 🔧 Featured Projects & Tools
+
+**CV Box Platform**
+- AI-powered infrastructure monitoring using stereo vision and drone technology
+- Real-time pothole detection and traffic jam analysis
+- Contributes to smart city development in African contexts
+
+**API Development Tools**
+- **Swagger-to-React-Query Generator:** Automatically creates TypeScript interfaces, functions, and React Query hooks from OpenAPI specifications
+- **Insurance Management System:** Built comprehensive roadmap using Agile methodologies
+
+**Mobile Applications**
+- **Product Search App:** Flutter-based application with camera integration, image recognition, and scan history
+- **E-commerce Solutions:** Supporting local businesses with digital marketing strategies (CAN 2025 football gear sales)
+
+**Content Creation Pipeline**
+- Educational content development focusing on Rust programming and computer science
+- Video editing workflow optimized for Ubuntu/Linux environment
+
+---
+
+## 🌍 Community Impact & Leadership
+
+Beyond coding, I'm committed to knowledge sharing and community development:
+
+**Content Creation & Education**
+- **Tech Blog**: Sharing insights on technology and development at [fnmalic.vercel.app](https://fnmalic.vercel.app)
+- **YouTube Channel**: Creating video tutorials and tech discussions
+- **Educational Resources**: Developing step-by-step guides for emerging technologies
+- **Digital Marketing Education**: Creating accessible courses using exclusively free-tier tools
+- **Rust Programming Content**: Building educational materials around systems programming
+
+**Business & Strategy**
+- **Entrepreneurial Leadership**: Co-founded [Codees-CM](https://codees-cm.com), driving technology solutions across Cameroon
+- **CTO Experience**: Leading technical strategy and innovation at [Ubuntu-X](https://ubuntu-x.com)
+- **Technical contract management** and team coordination experience
+- **Agile project management** for complex system implementations
+- **Supporting local entrepreneurs** with digital transformation strategies
+
+**Civic Technology**
+- Creating solutions that address real infrastructure and social challenges
+- Focusing on sustainable, locally-relevant technology implementations
+- Contributing to open-source projects that benefit emerging markets
+
+---
+
+## 📈 GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fnmalic&show_icons=true&locale=en&layout=compact" alt="fnmalic" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnmalic&show_icons=true&locale=en" alt="fnmalic" /></p>
 
----
-
-<p align="left"> 
-  <strong>🧑‍💻 About Me:</strong><br>
-  I'm a 23-year-old software developer specializing in web development, with experience in building dynamic and static websites. I also work with mobile technologies like Flutter and have experience with containerization using Docker. In addition to my software skills, I've dabbled in electronics, including a stereo vision project for detecting road obstacles. I'm passionate about technology, innovation, and constantly learning new things.
-</p>
-
-- 🔭 I’m currently working on **a portfolio website**
-- 🌱 I’m currently learning **DevOps and advanced Docker usage**
-- 🎯 My goal for 2024: **Make contributions to open-source projects**
-- 📫 How to reach me: **nixonfonkou@gmail.com**
-- ⚡ Fun fact: **I like Doom**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fnmalic" alt="fnmalic" /></a> </p>
 
 ---
 
-### 🏆 Achievements:
-- **2nd Place** at the regional competition "Meathon SDK Games" (2022)
-- **1st Place** in the agricultural section at the national competition "GETEC" (2024, Cameroon)
+## 🤝 Let's Connect
+
+I'm always open to collaborating on innovative projects, especially those with social impact potential.
+
+**📧 Email:** nixonfonkou@gmail.com  
+**🌐 Blog:** [fnmalic.vercel.app](https://fnmalic.vercel.app) - *"Share Knowledge, Inspire Others"*  
+**🎥 YouTube:** Tech tutorials and development insights  
+**🚀 Companies:** [Codees-CM](https://codees-cm.com) | [Ubuntu-X](https://ubuntu-x.com)
+
+**💡 Looking for:** Opportunities to contribute to open-source projects, collaborate on AI/ML initiatives, and connect with fellow developers building solutions for emerging markets.
 
 ---
 
-### 🚀 Skills & Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-**Programming Languages**:
-- Python (Django)
-- JavaScript (Next.js)
-- TypeScript
-- PHP
-
-**Web Development**:
-- HTML, CSS, Bootstrap, Tailwind
-- Express.js
-- Django, Next.js
-
-**Mobile Development**:
-- Flutter
-
-**Databases**:
-- PostgreSQL, MySQL, MongoDB
-
-**Tools & Platforms**:
-- Docker
-- Git (GitFlow)
-- Mocha (Testing)
-
----
-
-
-### 🔗 Connect with Me:
-- Email: **nixonfonkou@gmail.com**
+*"Technology is most powerful when it serves humanity. I build with purpose, innovate with intention, and code with community in mind."*
