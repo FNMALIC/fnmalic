@@ -2,11 +2,10 @@
 
 <img align="right" alt="Profile Picture" width="150" src="https://github.com/fnmalic.png">
 
-### Software Developer | AI/ML Engineer | Civic Tech Innovator | Co-Founder & CTO
+### Software Developer | AI/ML Engineer |  Co-Founder & CTO
 
 **Building technology solutions that drive real-world impact across Africa**
 
-🚀 **Co-Founder** at [Codees-CM](https://codees-cm.com) | 💼 **CTO** at [Ubuntu-X](https://ubuntu-x.com)
 
 ---
 
@@ -20,7 +19,6 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 - 🎯 Contributing to open-source projects and building developer tools
 - 💼 Managing technical contracts and coordinating development teams
 - 🎬 Launching content creator journey focused on African tech innovation
-- ✍️ Publishing tech insights and tutorials on my [personal blog](https://fnmalic.vercel.app)
 
 ---
 
