@@ -2,7 +2,7 @@
 
 <img align="right" alt="Profile Picture" width="150" src="https://github.com/fnmalic.png">
 
-### Software Developer | AI/ML Engineer |  Co-Founder & CTO
+### Software Developer | AI/ML Engineer | Entrepreneur 
 
 **Building technology solutions that drive real-world impact across Africa**
 
@@ -18,20 +18,16 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 - 📝 Creating educational content around **computer science** and **Rust programming**
 - 🎯 Contributing to open-source projects and building developer tools
 - 💼 Managing technical contracts and coordinating development teams
-- 🎬 Launching content creator journey focused on African tech innovation
 
 ---
 
 ## 🏆 Notable Achievements
 
-- **🚀 Co-Founder** - [Codees-CM](https://codees-cm.com) - Technology solutions company
-- **💼 Chief Technology Officer** - [Ubuntu-X](https://ubuntu-x.com) - Leading technical strategy and innovation
+- **🚀 Co-Founder** - [Codees-CM](https://codees-cm.com) - Technology solutions startup
+- **💼 Chief Technology Officer** - [Ubuntu-X](https://ubuntu-x.com) - 
 - **🥇 1st Place** - GETEC 2024 National Competition (Agriculture Section, Cameroon)
 - **🥈 2nd Place** - Meathon SDK Games Regional Competition (2022)
-- **🚀 Project Lead** - CV Box civic-tech initiative for smart city infrastructure
-- **💼 Technical Contractor** - Leading website modernization projects (consulatsarl.com) via Codees
-- **🛠️ Tool Creator** - Built Swagger-to-React-Query generator for developer productivity
-- **📈 Business Strategist** - Designed 4-week digital marketing course using free-tier tools
+
 
 ---
 
@@ -64,15 +60,6 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 
 ## 🔧 Featured Projects & Tools
 
-**CV Box Platform**
-- AI-powered infrastructure monitoring using stereo vision and drone technology
-- Real-time pothole detection and traffic jam analysis
-- Contributes to smart city development in African contexts
-
-**API Development Tools**
-- **Swagger-to-React-Query Generator:** Automatically creates TypeScript interfaces, functions, and React Query hooks from OpenAPI specifications
-- **Insurance Management System:** Built comprehensive roadmap using Agile methodologies
-
 **Mobile Applications**
 - **Product Search App:** Flutter-based application with camera integration, image recognition, and scan history
 - **E-commerce Solutions:** Supporting local businesses with digital marketing strategies (CAN 2025 football gear sales)
@@ -83,30 +70,7 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 
 ---
 
-## 🌍 Community Impact & Leadership
 
-Beyond coding, I'm committed to knowledge sharing and community development:
-
-**Content Creation & Education**
-- **Tech Blog**: Sharing insights on technology and development at [fnmalic.vercel.app](https://fnmalic.vercel.app)
-- **YouTube Channel**: Creating video tutorials and tech discussions
-- **Educational Resources**: Developing step-by-step guides for emerging technologies
-- **Digital Marketing Education**: Creating accessible courses using exclusively free-tier tools
-- **Rust Programming Content**: Building educational materials around systems programming
-
-**Business & Strategy**
-- **Entrepreneurial Leadership**: Co-founded [Codees-CM](https://codees-cm.com), driving technology solutions across Cameroon
-- **CTO Experience**: Leading technical strategy and innovation at [Ubuntu-X](https://ubuntu-x.com)
-- **Technical contract management** and team coordination experience
-- **Agile project management** for complex system implementations
-- **Supporting local entrepreneurs** with digital transformation strategies
-
-**Civic Technology**
-- Creating solutions that address real infrastructure and social challenges
-- Focusing on sustainable, locally-relevant technology implementations
-- Contributing to open-source projects that benefit emerging markets
-
----
 
 ## 📈 GitHub Stats
 
