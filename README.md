@@ -15,16 +15,13 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 
 **Current Focus:**
 - 🌱 Mastering **DevOps practices** and advanced containerization with Docker
-- 📝 Creating educational content around **computer science** and **Rust programming**
-- 🎯 Contributing to open-source projects and building developer tools
-- 💼 Managing technical contracts and coordinating development teams
+- 📝 Creating educational content around **computer science** 
 
 ---
 
 ## 🏆 Notable Achievements
 
 - **🚀 Co-Founder** - [Codees-CM](https://codees-cm.com) - Technology solutions startup
-- **💼 Chief Technology Officer** - [Ubuntu-X](https://ubuntu-x.com) - 
 - **🥇 1st Place** - GETEC 2024 National Competition (Agriculture Section, Cameroon)
 - **🥈 2nd Place** - Meathon SDK Games Regional Competition (2022)
 
@@ -34,41 +31,27 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 ## 🛠️ Technical Expertise
 
 **Full-Stack Development**
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Bootstrap
-- **Backend:** Django (DRF, Djoser), Flask, Express.js, Laravel
-- **Mobile Development**
-- **Flutter:** Advanced camera integration, image search capabilities, SharedPreferences for local storage
-- **Authentication Systems:** Previously integrated Google/Facebook login via Firebase (strategic removal for optimization)
-- **Image Processing:** Built product search functionality with camera/gallery upload features
-
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS,
+- **Backend:** Django (DRF, Djoser), Express.js, 
+- **Mobile Development** Flutter
+- 
 **AI/ML & Computer Vision**
 - Stereo vision systems for object detection
 - Image recognition APIs and processing pipelines
-- Drone-based data collection and analysis
+
 
 **DevOps & Tools**
 - Docker containerization and deployment
 - Git workflow management (GitFlow)
 - API development and documentation (Swagger/OpenAPI)
-- Linux/Ubuntu system administration
+
 
 **Databases & Infrastructure**
-- PostgreSQL, MySQL, MongoDB
-- Cloud deployment and scaling strategies
-
+- PostgreSQL, MongoDB
+- Cloud deployment 
 ---
 
-## 🔧 Featured Projects & Tools
 
-**Mobile Applications**
-- **Product Search App:** Flutter-based application with camera integration, image recognition, and scan history
-- **E-commerce Solutions:** Supporting local businesses with digital marketing strategies (CAN 2025 football gear sales)
-
-**Content Creation Pipeline**
-- Educational content development focusing on Rust programming and computer science
-- Video editing workflow optimized for Ubuntu/Linux environment
-
----
 
 
 
@@ -86,12 +69,9 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 I'm always open to collaborating on innovative projects, especially those with social impact potential.
 
 **📧 Email:** nixonfonkou@gmail.com  
-**🌐 Blog:** [fnmalic.vercel.app](https://fnmalic.vercel.app) - *"Share Knowledge, Inspire Others"*  
-**🎥 YouTube:** Tech tutorials and development insights  
 **🚀 Companies:** [Codees-CM](https://codees-cm.com) | [Ubuntu-X](https://ubuntu-x.com)
 
 **💡 Looking for:** Opportunities to contribute to open-source projects, collaborate on AI/ML initiatives, and connect with fellow developers building solutions for emerging markets.
 
 ---
 
-*"Technology is most powerful when it serves humanity. I build with purpose, innovate with intention, and code with community in mind."*
