@@ -69,7 +69,7 @@ I'm a 24-year-old full-stack developer and AI enthusiast from Cameroon, passiona
 I'm always open to collaborating on innovative projects, especially those with social impact potential.
 
 **📧 Email:** nixonfonkou@gmail.com  
-**🚀 Companies:** [Codees-CM](https://codees-cm.com) | [Ubuntu-X](https://ubuntu-x.com)
+**🚀 Companies:** [Codees-CM](https://codees-cm.com) 
 
 **💡 Looking for:** Opportunities to contribute to open-source projects, collaborate on AI/ML initiatives, and connect with fellow developers building solutions for emerging markets.
 
